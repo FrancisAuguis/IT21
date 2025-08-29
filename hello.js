@@ -1,8 +1,12 @@
-console.log("hello world");
+num1 =2;
+num2 =3;
 
-num2 = 3
-num3 = 1
+sum = num1 + num2;
+diff = num2 - num2;
+prod = num1 * num2;
+quo = num1 / num2;
 
-sum = num2 + num3;
-
-console.log("the sum of "+ num2 + "and" + num3+ "is" + sum);
+console.log("The sum of" + num1 +"and" + num2 +" is" + sum);
+console.log("The difference of" + num1 +"and" + num2 +" is" + diff);
+console.log("The product of" + num1 +"and" + num2 +" is" + prod);
+console.log("The qoutient of" + num1 +"and" + num2 +" is" + qou);
